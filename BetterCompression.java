@@ -1,7 +1,7 @@
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-public class Solution {
+public class BetterCompression {
 
 	public static void main(final String[] args) {
 		System.out.println(betterCompression("a12b56c1").equals("a12b56c1"));
